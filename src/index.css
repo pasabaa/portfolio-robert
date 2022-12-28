@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    @apply bg-zinc-800 text-gray-300
+}
+
+.card-hover {
+    transition:  all 400ms ease;
+}
+
+.card-hover img {
+    transition: all 800ms ease;
+}
+
+.card-hover:hover {
+    scale: 1.025;
+}
+
+.card-hover:hover img {
+    scale: 1.035;
+}
