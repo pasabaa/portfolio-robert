@@ -7,11 +7,11 @@ body {
 }
 
 .card-hover {
-    transition:  all 400ms ease;
+    transition:  all 200ms ease;
 }
 
 .card-hover img {
-    transition: all 800ms ease;
+    transition: all 600ms ease;
 }
 
 .card-hover:hover {

@@ -5,23 +5,23 @@ export const Navbar = () => {
 
     const links = [
         {
-            name: 'Home',
+            name: 'Inicio',
             url: '/'
         },
         {
-            name: 'About',
+            name: 'Sobre mí',
             url: '/about'
         },
         {
-            name: 'Work',
+            name: 'Trabajo',
             url: '/work'
         },
         {
-            name: 'Services',
+            name: 'Servicios',
             url: '/services'
         },
         {
-            name: 'Contact',
+            name: 'Contacto',
             url: '/contact'
         }
     ]
